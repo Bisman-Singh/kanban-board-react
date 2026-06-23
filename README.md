@@ -33,3 +33,5 @@ A feature-rich Kanban board with drag-and-drop built with React and Vite.
 npm install
 npm run dev
 ```
+
+<sub><sup>Originally developed and tested locally during learning. Later organized and pushed to GitHub for portfolio visibility.</sup></sub>
